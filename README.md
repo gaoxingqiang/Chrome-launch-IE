@@ -5,4 +5,4 @@ Use Chrome launch IE
 
 2.click alert.reg file.
 
-3.open test html and click "Launch IE".
+3.open test html and click "Click Launch IE".
